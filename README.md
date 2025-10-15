@@ -1,2 +1,1 @@
-# MVC Day7 Assessment
-https://drive.google.com/drive/folders/1WL_0OEQPbvo64vamACn2iTQ7_wm_RMu3?usp=drive_link
+
